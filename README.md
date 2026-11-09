@@ -20,6 +20,8 @@ Language. The status bar shows the `restic-backup` systemd user service (set
 `REWIND_BACKUP_UNIT` for another name): when the last backup ran, when the next
 one will, its log, and a button that starts it now.
 
+![Rewind in a light theme, showing changes in a file since the last backup](docs/screenshot-light.png)
+
 ## Use
 
 ```sh
