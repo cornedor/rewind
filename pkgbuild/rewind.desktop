@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Rewind
+Name[nl]=Rewind
+Comment=Browse your restic backups like a time machine and restore old versions
+Comment[nl]=Blader door je restic-backups als een tijdmachine en zet oude versies terug
+Exec=rewind %f
+Icon=rewind
+Terminal=false
+Categories=Utility;Archiving;
+Keywords=backup;restic;restore;history;versions;time machine;
+StartupWMClass=rewind

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ActionButton.qml">ActionButton.qml</file>
+        <file alias="BackupChart.qml">BackupChart.qml</file>
+        <file alias="BackupDetail.qml">BackupDetail.qml</file>
+        <file alias="BackupsView.qml">BackupsView.qml</file>
+        <file alias="ChangesPanel.qml">ChangesPanel.qml</file>
+        <file alias="DiffView.qml">DiffView.qml</file>
+        <file alias="FileList.qml">FileList.qml</file>
+        <file alias="HelpOverlay.qml">HelpOverlay.qml</file>
+        <file alias="IconButton.qml">IconButton.qml</file>
+        <file alias="KeyCap.qml">KeyCap.qml</file>
+        <file alias="LogDialog.qml">LogDialog.qml</file>
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="PastBanner.qml">PastBanner.qml</file>
+        <file alias="PreviewPane.qml">PreviewPane.qml</file>
+        <file alias="RestoreDialog.qml">RestoreDialog.qml</file>
+        <file alias="StatusBar.qml">StatusBar.qml</file>
+        <file alias="StatusPill.qml">StatusPill.qml</file>
+        <file alias="Timeline.qml">Timeline.qml</file>
+        <file alias="Toast.qml">Toast.qml</file>
+        <file alias="TopBar.qml">TopBar.qml</file>
+        <file alias="skill.md">skill.md</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+        <file alias="i18n/nl.json">i18n/nl.json</file>
+    </qresource>
+</RCC>

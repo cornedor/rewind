@@ -1,0 +1,66 @@
+{
+  "%n backups": {
+    "one": "%n backup",
+    "other": "%n backups"
+  },
+  "%n backups go": {
+    "one": "%n backup goes",
+    "other": "%n backups go"
+  },
+  "%n changes since the backup before it. Enter jumps to one.": {
+    "one": "%n change since the backup before it. Enter jumps to it.",
+    "other": "%n changes since the backup before it. Enter jumps to one."
+  },
+  "%n days": {
+    "one": "%n day",
+    "other": "%n days"
+  },
+  "%n days ago": {
+    "one": "%n day ago",
+    "other": "%n days ago"
+  },
+  "%n files changed": {
+    "one": "%n file changed",
+    "other": "%n files changed"
+  },
+  "%n hours ago": {
+    "one": "%n hour ago",
+    "other": "%n hours ago"
+  },
+  "%n items": {
+    "one": "%n item",
+    "other": "%n items"
+  },
+  "%n minutes ago": {
+    "one": "%n minute ago",
+    "other": "%n minutes ago"
+  },
+  "%n months ago": {
+    "one": "%n month ago",
+    "other": "%n months ago"
+  },
+  "%n versions": {
+    "one": "%n version",
+    "other": "%n versions"
+  },
+  "%n versions in your backups": {
+    "one": "%n version in your backups",
+    "other": "%n versions in your backups"
+  },
+  "%n years ago": {
+    "one": "%n year ago",
+    "other": "%n years ago"
+  },
+  "in %n days": {
+    "one": "in %n day",
+    "other": "in %n days"
+  },
+  "in %n hours": {
+    "one": "in %n hour",
+    "other": "in %n hours"
+  },
+  "in %n minutes": {
+    "one": "in %n minute",
+    "other": "in %n minutes"
+  }
+}
