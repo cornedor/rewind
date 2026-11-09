@@ -5,7 +5,7 @@ through your backups, and see what each file looked like then: what changed
 since, what was deleted, and every distinct version of a file on one timeline.
 Restore a version beside the current file or in its place, and undo it.
 
-![Rewind showing the changes in a file since an earlier backup](docs/screenshot.png)
+![Rewind showing the changes in a file since the last backup](docs/screenshot-light.png)
 
 Rewind opens the repository your backups already use. It reads
 `~/.config/restic/env` (the systemd `EnvironmentFile` format, with
@@ -19,8 +19,6 @@ Hyprland's window rounding, live, and the language picked under Setup >
 Language. The status bar shows the `restic-backup` systemd user service (set
 `REWIND_BACKUP_UNIT` for another name): when the last backup ran, when the next
 one will, its log, and a button that starts it now.
-
-![Rewind in a light theme, showing changes in a file since the last backup](docs/screenshot-light.png)
 
 ## Use
 
